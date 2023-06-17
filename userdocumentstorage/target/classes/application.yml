@@ -1,0 +1,15 @@
+# AWS
+aws:
+  access:
+    key:
+      id: AKIAULL2RWUJ3CGWWJJE
+  secret:
+    access:
+      key: 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
+  s3:
+    region: ap-south-1
+    bucket:
+      name: sandyfreightfox
+
+server:
+  port: 8082
